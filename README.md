@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbeard01" alt="mbeard01" /></a> </p>
 
-- 🔭 I’m currently working on **a series of optimisation and network based projects, as well as some work concerning inflationary cosmology. I am looking to start some projects soon concerning magnetic monopoles**
+- 👩‍🎓 I’m currently working on **a series of optimisation and network based projects, as well as some work concerning inflationary cosmology. I am looking to start some projects soon concerning magnetic monopoles**
 
-- 👯 I’m looking to collaborate on **any physics based projects, in particular any concerning quantum mechanics and particle physics**
+- 🔭 I’m looking to collaborate on **any physics based projects, in particular any concerning quantum mechanics and particle physics**
 
-- 🌱 I’m currently learning **optimisation, graph theory, relativity, cosmology and a thesis on monopoles**
+- 💻 I’m currently learning **optimisation, graph theory, relativity, cosmology and a thesis on monopoles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
