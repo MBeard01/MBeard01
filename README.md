@@ -1,4 +1,4 @@
-👩‍🔬 Master's Student in Mathematical and Theoretical Physics @ Oxford
+👩‍🔬 Master's Student in Mathematical and Theoretical Physics
 
 🎓 Currently diving into:
 
