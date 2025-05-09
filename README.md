@@ -2,15 +2,13 @@
 
 🎓 Currently diving into:
 
-- Algebraic Topology and Differential Manifolds
-- Exploring String Theory, Knot Theory, and Riemannian Geometry
-- Investigating Quantum Mechanics and Cosmology, with a special interest in magnetic monopoles
+- Differentiable manifolds, Riemannian geometry, algebraic geometry, algebraic topology, and Lie groups
+- String theory, astroparticle physics, and conformal field theory
 
 💡 Research interests:
 
-- Differential Geometry: its applications to physics and beyond
-- Pure and Applied Toplogy
-- Open to collaborations on projects in differential geometry, theoretical physics, quantum mechanics, and topological mathematics
+- Geometry: Both from an abstract pure maths points of view, and also its applications to physics and beyond
+- Open to collaborations on projects in differential geometry, topology, and theoretical physics
 
 📚 Passionate about building open-source educational resources—currently working on a problem set collection for advanced mathematics and physics.
 
